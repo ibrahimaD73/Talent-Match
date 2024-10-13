@@ -4,6 +4,8 @@
 
 Talent-Match est une application CVthèque pour le processus de recrutement. En utilisant des techniques d'analyse et de comparaison, cette application permet une gestion efficace des candidatures et des offres d'emploi, facilitant ainsi la correspondance entre les talents et les opportunités.
 
+**Application déployée :** [https://talent-match-946681472540.europe-west9.run.app/](https://talent-match-946681472540.europe-west9.run.app/)
+
 ![Talent-Match Demo](appli.png)
 
 ## Fonctionnalités principales
@@ -73,5 +75,3 @@ docker run -p 8000:8000 talent-match
 ## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
-
-
